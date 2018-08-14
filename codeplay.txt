@@ -1,0 +1,24 @@
+Tools for Development MERN/MEAN Stack 
+
+Software Tools List 
+1. Visual Studio Code / 
+2. Nodejs 
+3. Angular.io 
+4. ReactJS 
+5. Chrome Addon => Augury Chrome Addon (Testing/Debugging/Angular Workflow monitoring/ State Management Debugging)
+6. React Redux Chrome Addon (StateManagement Time Travel) 
+7. Json Viewer/Formatter Chrome Addon 
+8. John Papa Style Guide for Angular -Visual Studio Code Extenstions
+9. HtmlViewer Extension for Visual Studio Code
+10. Path Extensions for Visual Studio Code
+11. ViewinBrowser for Visual Studio Code. 
+
+npm install --save "@angular/cli"
+
+PS H:\awase-harddisk\Angular5\ClientTrainings\noorbhai> git config --global user.email "@awasekhirni@gmail.com"
+PS H:\awase-harddisk\Angular5\ClientTrainings\noorbhai> git config --global user.name "Awase Khirni Syed"
+git add .
+git commit -m "FirstCommit" 
+git remote add origin "https://github.com/awasekhirni/internalangular.git" 
+git remote -v 
+git pull origin master 
